@@ -16,7 +16,7 @@ public class SwaggerConfig {
 	public OpenAPI myCustomConfig() {
 		return new OpenAPI().info(
 				new Info().title("Rentify Application APIs")
-					.description("By Vivek")
+					.description("By Shivam")
 		)
 		.servers(Arrays.asList(new Server().url("http://localhost:9999/Rentify").description("Local Server"))
 		);

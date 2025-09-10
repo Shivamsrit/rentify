@@ -21,10 +21,10 @@ const Footer = () => {
              href="https://twitter.com" aria-label="Twitter"><FaXTwitter className='text-md md:text-[24px]' />
           </a>
           <a className='text-gray-400 transition-[color] duration-[0.3s] hover:text-[white]' 
-            href="https://www.instagram.com/vvek_9/" aria-label="Instagram"><FaInstagram className='text-md md:text-[24px]' />
+            href="https://www.instagram.com/shivam_jaiswal_26_/" aria-label="Instagram"><FaInstagram className='text-md md:text-[24px]' />
           </a>
           <a className='text-gray-400 transition-[color] duration-[0.3s] hover:text-[white]' 
-             href="https://www.linkedin.com/in/vivekanand-vernekar/" aria-label="LinkedIn"><FaLinkedin className='text-md md:text-[24px]' />
+             href="www.linkedin.com/in/shivam-jaiswal-dev" aria-label="LinkedIn"><FaLinkedin className='text-md md:text-[24px]' />
           </a>
         </div>
 
